@@ -3,7 +3,7 @@
  <br />
  <br />
 
-A YouTube video and cross-platform repurposing assistant. skill.
+A YouTube video and cross-platform repurposing assistant skill.
 
  <br />
  <br />
